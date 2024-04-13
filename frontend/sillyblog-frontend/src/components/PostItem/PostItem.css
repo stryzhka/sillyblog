@@ -1,0 +1,50 @@
+.post{
+    width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    
+}
+.top{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.topImg{
+    width: 40px;
+    height: 40px;
+    /* background: #000000; */
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+
+
+
+.topUsername{
+    margin-left: 15px;
+}
+
+.content{
+    margin-bottom: 10px;
+}
+
+.icons{
+    
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.date{
+
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
